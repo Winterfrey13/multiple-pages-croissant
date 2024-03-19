@@ -1,5 +1,33 @@
+body {
+  background-color: #f8e8a6;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: green;
+}
+
+.email{
+    color: blue;
+}
+
 img {
   display: block;
   max-width: 70%;
   margin: 0 auto;
+}
+
+p {
+  text-align: center;
+}
+
+footer {
+  display: block;
+  text-align: center;
+  word-spacing: 20px;
+  margin: 15px;
+  font-size: 16px;
 }
